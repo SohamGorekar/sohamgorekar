@@ -53,6 +53,6 @@ Fullstack Developer passionate about building **scalable, performant web apps** 
 ---
 
 ## 📫 Let's Connect  
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-gorekar-2387bb290)
+## COMPANY
 [![Company Profile](https://img.shields.io/badge/Yogineers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yogineers-texhnology-private-limitied)
