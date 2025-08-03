@@ -42,7 +42,7 @@ Fullstack Developer passionate about building **scalable, performant web apps** 
 ---
 
 ## 💻 LeetCode Progress
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sohamgorekar&theme=dark)](https://leetcode.com/sohamgorekar/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sohamgorekar)](https://leetcode.com/sohamgorekar/)
 
 ---
 
