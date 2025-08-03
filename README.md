@@ -38,6 +38,7 @@ Fullstack Developer passionate about building **scalable, performant web apps** 
 **Tools:**  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=sohamgorekar&theme=dark&font=baloo&extension=activity)](https://leetcode.com/u/sohamgorekar/)
 
 ---
 
