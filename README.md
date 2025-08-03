@@ -18,7 +18,7 @@
 - **Tools:** Prisma, Git    
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://www.linkedin.com/in/soham-gorekar-2387bb290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-gorekar-2387bb290)
 
 ### COMPANY
-[![LinkedIn]([https://www.linkedin.com/company/yogineers-texhnology-private-limitied])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yogineers-texhnology-private-limitied)
