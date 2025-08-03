@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Soham Gorekar  
 
-<!--
-**SohamGorekar/sohamgorekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Work Experience  
+**Fullstack Developer @Startup @intern** *(2024 - Present)*  
+- Optimized API performance using **Node.js & Prisma**.
+- seamless responsive frontend using react tailwind.
+- proper file structuring  
+- Built scalable microservices for fintech applications.
 
-Here are some ideas to get you started:
+**Key Principles:**  
+- **Modularity**: Separated frontend/backend.  
+- **Scalability**: Logical grouping (e.g., `components/`, `controllers/`).  
+- **Documentation**: `.env.example` for security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Frontend:** React, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express, MongoDB, MySQL, PostgreSQL  
+- **Tools:** Prisma, Git    
+
+### 📫 Connect With Me  
+[![LinkedIn](https://www.linkedin.com/in/soham-gorekar-2387bb290/)
+
+### COMPANY
+[![LinkedIn]([https://www.linkedin.com/company/yogineers-texhnology-private-limitied])
