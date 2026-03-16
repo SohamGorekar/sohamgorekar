@@ -1,10 +1,10 @@
 # 👨‍💻 Soham Gorekar
-### Fullstack Engineer | System Architect in Training | Open Source Enthusiast
+### Fullstack Engineer | System Architect in Training | Open Source Enthusiast | SIH Finalist and Innovation lover
 
 ---
 
 ## 💫 About Me
-I am a **Fullstack Developer** and **Computer Engineering student** dedicated to building high-performance, distributed systems. My focus lies at the intersection of **Scalable Backend Architectures** and **Fluid User Experiences**.
+I am a **Fullstack Developer** and **Computer Engineering student** dedicated to building high-performance, distributed systems. My focus lies at the intersection of **Scalable Backend & Frontend Architectures** and **Fluid User Experiences**.
 
 - 🔭 **Current Role:** Fullstack Intern @ **Yogineers Technology**
 - ⚡ **Core Strength:** Optimizing data flow between Node.js microservices and SQL/NoSQL databases.
@@ -20,10 +20,10 @@ I am a **Fullstack Developer** and **Computer Engineering student** dedicated to
 
 > **Tech Stack:** Node.js, Prisma, React, MongoDB, PostgreSQL
 
-* **⚡ Performance Engineering:** Engineered a 30% reduction in API response times by implementing efficient indexing in MongoDB and optimizing Prisma ORM queries.
-* **🏗️ Architecture:** Designed and maintained a **Modular Monolith** structure, separating core business logic from delivery layers to ensure 100% testability.
-* **💳 Fintech Solutions:** Developed secure, idempotent microservices for financial data processing using Express.js.
-* **🎨 UI/UX Excellence:** Built a library of reusable, accessible components using Tailwind CSS and React, reducing frontend development time by 20%.
+* **End-to-End Development:** Taking ownership of features from database schema design to frontend deployment.
+* **Client Collaboration:** Communicating directly with stakeholders (Domestic & International) to translate business needs into technical requirements.
+* **Tech Integration:** Bridging **Node.js & Prisma** with **React** to create seamless, data-driven user experiences.
+* **Architecture:** Maintaining clean, modular codebases to ensure projects remain scalable and easy to debug.
 
 ---
 
