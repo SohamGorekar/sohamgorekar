@@ -1,63 +1,79 @@
-# 👋 Hi, I'm Soham Gorekar  
+# 👨‍💻 Soham Gorekar
+### Fullstack Engineer | System Architect in Training | Open Source Enthusiast
 
-### 💻 About Me  
-Fullstack Developer passionate about building **scalable, performant web apps** with clean architecture. Currently interning at a startup while pursuing my degree in Computer Engineering.  
-
----
-
-## 🚀 Experience  
-
-### **Fullstack Developer @ Yogineers Technology** *(2024 - Present)*  
-🔹 Optimized API performance by 30% using **Node.js & Prisma**  
-🔹 Built seamless responsive UIs with **React & Tailwind CSS**  
-🔹 Implemented **modular file structure** for better maintainability  
-🔹 Developed fintech microservices with **Express & MongoDB**  
-
-**Key Principles:**  
-✅ **Modular Architecture**: Separated `client/` and `server/` logic  
-✅ **Documentation**: Maintained `.env.example` for team onboarding  
-✅ **Performance**: Reduced latency through query optimization  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 💫 About Me
+I am a **Fullstack Developer** and **Computer Engineering student** dedicated to building high-performance, distributed systems. My focus lies at the intersection of **Scalable Backend Architectures** and **Fluid User Experiences**.
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools:**  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🔭 **Current Role:** Fullstack Intern @ **Yogineers Technology**
+- ⚡ **Core Strength:** Optimizing data flow between Node.js microservices and SQL/NoSQL databases.
+- 🎓 **Education:** Pursuing B.E. in Computer Engineering.
+- 🎯 **2024 Goals:** Mastering System Design patterns and deepening DevOps (Docker/K8s) knowledge.
 
 ---
 
-## 💻 LeetCode Progress
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sohamgorekar)](https://leetcode.com/sohamgorekar/)
+## 🚀 Impact & Experience
+
+### **Fullstack Developer @ Yogineers Technology**
+*Jan 2024 - Present*
+
+> **Tech Stack:** Node.js, Prisma, React, MongoDB, PostgreSQL
+
+* **⚡ Performance Engineering:** Engineered a 30% reduction in API response times by implementing efficient indexing in MongoDB and optimizing Prisma ORM queries.
+* **🏗️ Architecture:** Designed and maintained a **Modular Monolith** structure, separating core business logic from delivery layers to ensure 100% testability.
+* **💳 Fintech Solutions:** Developed secure, idempotent microservices for financial data processing using Express.js.
+* **🎨 UI/UX Excellence:** Built a library of reusable, accessible components using Tailwind CSS and React, reducing frontend development time by 20%.
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ My Tech Toolbox
 
-<!-- Dynamic stats - Paste these lines at the bottom of your README -->
-[![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamgorekar&show_icons=true&theme=radical)](https://github.com/sohamgorekar)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamgorekar&layout=compact&theme=radical)](https://github.com/sohamgorekar)  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sohamgorekar&theme=radical)](https://git.io/streak-stats)  
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white) |
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-gorekar-2387bb290)
-## COMPANY
-[![Company Profile](https://img.shields.io/badge/Yogineers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yogineers-texhnology-private-limitied)
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamgorekar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamgorekar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamgorekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧩 Problem Solving (LeetCode)
+<p align="center">
+  <a href="https://leetcode.com/sohamgorekar/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=sohamgorekar&theme=dark" alt="LeetCode Stats" style="max-width: 100%;" />
+  </a>
+</p>
+
+---
+
+## 📫 Let's Build Something Together
+<p align="center">
+  <a href="https://www.linkedin.com/in/soham-gorekar-2387bb290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
