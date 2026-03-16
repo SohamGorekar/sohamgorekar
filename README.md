@@ -9,7 +9,7 @@ I am a **Fullstack Developer** and **Computer Engineering student** dedicated to
 - 🔭 **Current Role:** Fullstack Intern @ **Yogineers Technology**
 - ⚡ **Core Strength:** Optimizing data flow between Node.js microservices and SQL/NoSQL databases.
 - 🎓 **Education:** Pursuing B.E. in Computer Engineering.
-- 🎯 **2024 Goals:** Mastering System Design patterns and deepening DevOps (Docker/K8s) knowledge.
+- 🎯 **2026 Goals:** Start with open source contributions, learning 3js, building a startup idea.
 
 ---
 
